@@ -62,7 +62,7 @@ const AllocationForm = (props) => {
                   </select>
 
     
-                  <label className="input-group-text" style={{ marginLeft: '2rem'}} htmlFor="inputGroupSelect01">£</label>
+                  <label className="input-group-text" style={{ marginLeft: '2rem'}} htmlFor="inputGroupSelect01">₹</label>
 
                     <input
                         required='required'
